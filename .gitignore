@@ -6,9 +6,9 @@
 *.m4v
 *.webm
 
-# Keep small assets used in README
-!assets/*.mp4
-!assets/*.gif
+# Keep small assets used in README (only specific files, not large source videos)
+!assets/rick-astley-preview.mp4
+!assets/rick-astley-email-safe.gif
 
 ffmpeg2pass*
 *.log
