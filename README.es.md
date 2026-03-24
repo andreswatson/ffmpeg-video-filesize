@@ -255,7 +255,7 @@ Todas las pruebas usaron configuración por defecto (`libx264`, preset `medium`,
 
 El GIF de abajo se generó a partir del mismo video fuente usando `ffmpeg` puro y se mantuvo por debajo de 1 MB:
 
-![Rick Astley GIF liviano para email](assets/rick-astley-email-safe.gif)
+<img src="assets/rick-astley-email-safe.gif" alt="Rick Astley GIF liviano para email" width="600">
 
 Clip MP4 directo: [assets/rick-astley-preview.mp4](assets/rick-astley-preview.mp4)
 

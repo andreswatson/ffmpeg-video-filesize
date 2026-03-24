@@ -255,7 +255,7 @@ All tests used default settings (`libx264`, `medium` preset, 128 kbps AAC audio)
 
 The GIF below was generated from the same source video using plain `ffmpeg` and kept under 1 MB:
 
-![Rick Astley email-safe GIF preview](assets/rick-astley-email-safe.gif)
+<img src="assets/rick-astley-email-safe.gif" alt="Rick Astley email-safe GIF preview" width="600">
 
 Direct MP4 clip: [assets/rick-astley-preview.mp4](assets/rick-astley-preview.mp4)
 
