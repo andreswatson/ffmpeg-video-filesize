@@ -16,3 +16,4 @@ ffmpeg2pass*
 Thumbs.db
 *.swp
 *~
+*.local.md
