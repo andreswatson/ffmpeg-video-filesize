@@ -123,7 +123,8 @@ parse_target_size() {
 }
 
 resolve_template() {
-    local template="$(printf '%s' "$1" | tr '[:upper:]' '[:lower:]')"
+    local template
+    template="$(printf '%s' "$1" | tr '[:upper:]' '[:lower:]')"
     case "$template" in
         whatsapp)       echo "95mb" ;;
         whatsapp-safe)  echo "60mb" ;;
