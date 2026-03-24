@@ -82,7 +82,7 @@ Clip MP4 directo:
 
 [assets/rick-astley-preview.mp4](../assets/rick-astley-preview.mp4)
 
-Este GIF de ejemplo pesa aproximadamente `756 KB`, lo que lo hace un ejemplo práctico de adjunto animado amigable para email.
+Este GIF de ejemplo pesa aproximadamente `1.7 MB` (600px de ancho), lo que lo hace un ejemplo práctico de adjunto animado amigable para email.
 
 Si necesitas un GIF aún más pequeño, reduce una o más de estas variables:
 

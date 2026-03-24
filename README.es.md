@@ -259,7 +259,7 @@ El GIF de abajo se generó a partir del mismo video fuente usando `ffmpeg` puro 
 
 Clip MP4 directo: [assets/rick-astley-preview.mp4](assets/rick-astley-preview.mp4)
 
-El GIF pesa unos 756 KB. Para la receta completa, ver [docs/ffmpeg-recipes.es.md](docs/ffmpeg-recipes.es.md#ejemplo-de-gif-liviano-para-email).
+El GIF pesa unos 1.7 MB (600px de ancho). Para la receta completa, ver [docs/ffmpeg-recipes.es.md](docs/ffmpeg-recipes.es.md#ejemplo-de-gif-liviano-para-email).
 
 ---
 

@@ -82,7 +82,7 @@ Direct MP4 clip:
 
 [assets/rick-astley-preview.mp4](../assets/rick-astley-preview.mp4)
 
-This example GIF is about `756 KB`, which makes it a practical email-friendly animated attachment example.
+This example GIF is about `1.7 MB` (600px wide), which makes it a practical email-friendly animated attachment example.
 
 If you need an even smaller GIF, reduce one or more of these:
 

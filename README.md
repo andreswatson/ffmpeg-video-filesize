@@ -259,7 +259,7 @@ The GIF below was generated from the same source video using plain `ffmpeg` and 
 
 Direct MP4 clip: [assets/rick-astley-preview.mp4](assets/rick-astley-preview.mp4)
 
-The GIF is about 756 KB. For the full recipe, see [docs/ffmpeg-recipes.md](docs/ffmpeg-recipes.md#email-safe-gif-example).
+The GIF is about 1.7 MB (600px wide). For the full recipe, see [docs/ffmpeg-recipes.md](docs/ffmpeg-recipes.md#email-safe-gif-example).
 
 ---
 
