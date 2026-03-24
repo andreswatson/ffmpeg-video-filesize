@@ -1,5 +1,7 @@
 # Contributing
 
+Language: English | [Español](CONTRIBUTING.es.md)
+
 ## Reporting bugs
 
 Open an issue and use the bug report template. Include steps to reproduce, expected vs actual behavior, and your environment (OS, ffmpeg, bash).
